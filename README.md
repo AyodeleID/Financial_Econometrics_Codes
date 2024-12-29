@@ -10,4 +10,4 @@ This repository contains Python and R codes for financial econometrics analysis,
 - Cointegration models
 - Correlation models (CCC, DCC, Copula-GARCH)
 
-- 
+
